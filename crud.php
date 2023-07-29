@@ -2,7 +2,7 @@
 include "Queries.php";
 $details_insert = new Queries();
 
-$name = "Jaison George Mangara1";
+$name = "Jaison George Mangara123";
 $email = "jaiosnmangara@gmail.com";
 $phone = 1234567890;
 $price = 50.00;
